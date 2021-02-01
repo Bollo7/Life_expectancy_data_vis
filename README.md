@@ -1,5 +1,5 @@
 # Visual Analytics Lab Project 2020/21
-Submission template for the Visual Analytics lab project at the Johannes Kepler University Linz.
+Submission for the Visual Analytics lab project at the Johannes Kepler University Linz.
 
 ### Group Members
 
